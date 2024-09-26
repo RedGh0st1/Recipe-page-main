@@ -49,10 +49,17 @@ This project helped me improve my understanding of instyling CSS and targetting 
 
 ## Sharing your solution
 
-	•	Improving accessibility by ensuring better screen reader compatibility.
-	•	JavaScript interactions for dynamic content, such as ingredient filtering or adjusting serving sizes.
-	•	Improving animations to enhance user experience and page transitions.
-
+	
+      <h2
+        style="
+          color: hsl(14, 45%, 36%);
+          margin-bottom: 10px;
+          border-top: 3px solid hsl(30, 18%, 87%);
+          padding: 10px;
+        "
+      >
+        Instructions
+      </h2>
 
 ## Author
 
