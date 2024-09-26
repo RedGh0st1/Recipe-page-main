@@ -49,23 +49,14 @@ This project helped me improve my understanding of instyling CSS and targetting 
 
 ## Sharing your solution
 
-	I learned how to use CSS selectors more effectively. I used the GRID system and I had to remove the border from the last two elements and for that I had to use the nth-last-child selector as follows.
 
-.recipe-card {
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  border-radius: 20px;
-}
+## Author
 
-
+	•	Website - Lennie Nurse 
+	•	Frontend Mentor - @yourusername 
+	•	Twitter - @yourusername 
 
 
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
-
-## Got feedback for us?
-
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
-
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
-
-**Have fun building!** 🚀
+**Acknowledgments** 🚀
+Special thanks to the Frontend Mentor community for providing feedback and support throughout the challenge!
 # Recipe-page-main
