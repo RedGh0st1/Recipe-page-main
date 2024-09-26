@@ -73,13 +73,13 @@ This project helped me improve my understanding of instyling CSS and targetting 
 ```
 ## Continued Development
 
-I need to do more css pracitice because it took me long to just complete this challenge
+I realized I need to practice CSS more because it took me longer than expected to complete this challenge.
 
 ## Author
 
-- Website - [Lennie Nurse](https://yourwebsite.com)
-- Frontend Mentor - [@Lennie Nurse](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Lennie Nurse Jr](https://yourwebsite.com)
+- Frontend Mentor - [@Lennie Nurse]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/home))
+- Twitter - [@Lennie Nurse]([https://www.twitter.com/yourusername](https://x.com/LennieNurs38597))
 
   
 **Acknowledgments** 🚀
