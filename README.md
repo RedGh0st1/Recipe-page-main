@@ -49,6 +49,10 @@ This project helped me improve my understanding of instyling CSS and targetting 
 
 ## Sharing your solution
 
+	•	Improving accessibility by ensuring better screen reader compatibility.
+	•	JavaScript interactions for dynamic content, such as ingredient filtering or adjusting serving sizes.
+	•	Improving animations to enhance user experience and page transitions.
+
 
 ## Author
 
