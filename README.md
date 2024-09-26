@@ -33,8 +33,8 @@ This screenshot shows the main recipe page featuring a simple omelette recipe, c
 
 ## Links
 
-- [GitHub Pages]([https://pages.github.com/](https://redgh0st1.github.io/Recipe-page-main/))
-- [Vercel](https://vercel.com/)
+- [GitHub Pages]([https://pages.github.com/](https://redgh0st1.github.io/Recipe-page-main/)
+- [Solution](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 
 You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
