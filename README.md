@@ -71,7 +71,18 @@ This project helped me improve my understanding of instyling CSS and targetting 
           fluffier texture.
         </li>
 ```
+## Continued Development
 
+I need to do more css pracitice because it took me long to just complete this challenge
+
+## Author
+
+- Website - [Lennie Nurse](https://yourwebsite.com)
+- Frontend Mentor - [@Lennie Nurse](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
+  
 **Acknowledgments** 🚀
 Special thanks to the Frontend Mentor community for providing feedback and support throughout the challenge!
-# Recipe-page-main
+
+## Recipe-page-main
