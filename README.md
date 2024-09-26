@@ -49,25 +49,27 @@ This project helped me improve my understanding of instyling CSS and targetting 
 
 ## Sharing your solution
 
-	
-      ### 2. Example for HTML:
+
 ```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>My HTML Example</title>
-  </head>
-  <body>
-    <h1>Hello, World!</h1>
-  </body>
-</html>
-
-## Author
-
-	•	Website - Lennie Nurse 
-	•	Frontend Mentor - @yourusername 
-	•	Twitter - @yourusername 
+ <h2
+        style="
+          color: hsl(14, 45%, 36%);
+          margin-bottom: 10px;
+          border-top: 3px solid hsl(30, 18%, 87%);
+          padding: 10px;
+        "
+      >
+        Instructions
+      </h2>
+      <ol style="padding-left: 20px; margin-bottom: 20px">
+        <li style="margin-bottom: 10px">
+          <p style="font-weight: bold; display: inline; margin-bottom: 20px">
+            Beat the eggs:
+          </p>
+          In a bowl, beat the eggs with a pinch of salt and pepper until they
+          are well mixed. You can add a tablespoon of water or milk for a
+          fluffier texture.
+        </li>
 
 
 **Acknowledgments** 🚀
