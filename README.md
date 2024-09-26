@@ -9,18 +9,29 @@ Thanks for checking out this front-end coding challenge.
 This is my solution to the [Frontend Mentor](https://www.frontendmentor.io) challenge on Frontend Mentor. Building this project helped me improve my HTML, CSS, and responsive web design skills by developing a fully functional and aesthetically pleasing recipe page.
 
 
+## The Challenge
+
+The challenge is to build out this recipe page and get it looking as close to the design as possible.
+
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+
+Want some support on the challenge? Join our community and ask questions in the #help channel.
+
+
+
+
 ## Table of Contents
 
-	        Overview
-	•	Screenshot
-	•	Links
-	•	My Process
-	•	Built With
-	•	What I Learned
-	•	Continued Development
-	•	Useful Resources
-	•	Author
-	•	Acknowledgments
+- [Overview](#overview)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [My process](#my-process)
+- [What I learned](#what-i-learned)
+- [Continued development](#continued-development)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+	   
 
 
 
@@ -31,21 +42,31 @@ This is my solution to the [Frontend Mentor](https://www.frontendmentor.io) chal
 This screenshot shows the main recipe page featuring a simple omelette recipe, complete with ingredients, instructions, and nutritional information.
 
 
+
 ## Links
 
-- [GitHub Pages]([https://pages.github.com/](https://redgh0st1.github.io/Recipe-page-main/)
+- [GitHub Pages](https://redgh0st1.github.io/Recipe-page-main/)
 - [Solution](https://github.com/RedGh0st1/Recipe-page-main)
 
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
 
 ## My Process
+
+  - Semantic HTML5 markup for structure
+  - CSS custom properties for theme customization
+  - Flexbox for layout design
+  - Mobile-first workflow for responsive design
+  - Vanilla JavaScript to enhance interactivity
+  - Styled Components for consistent and reusable styling
+  - Responsive images using different resolutions for optimal loading
 
 
 
 ## What I learned
 
 This project helped me improve my understanding of instyling CSS and targetting individual grid but i still need more work. Here are a few things I found most valuable:
+
+
 
 ## Sharing your solution
 
@@ -71,18 +92,21 @@ This project helped me improve my understanding of instyling CSS and targetting 
           fluffier texture.
         </li>
 ```
+
+
 ## Continued Development
 
 I realized I need to practice CSS more because it took me longer than expected to complete this challenge.
 
+
 ## Author
 
 - Website - [Lennie Nurse Jr](https://yourwebsite.com)
-- Frontend Mentor - [@Lennie Nurse]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/home))
-- Twitter - [@Lennie Nurse]([https://www.twitter.com/yourusername](https://x.com/LennieNurs38597))
+- Frontend Mentor - [Lennie Nurse](https://www.frontendmentor.io/home)
+- Twitter - [Lennie Nurse](https://x.com/LennieNurs38597)
 
   
-**Acknowledgments** 🚀
-Special thanks to the Frontend Mentor community for providing feedback and support throughout the challenge!
+## Acknowledgments 🚀
+Special thanks to the Frontend Mentor community for providing future feedback and support throughout the challenge!
 
 ## Recipe-page-main
