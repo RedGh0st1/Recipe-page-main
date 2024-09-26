@@ -70,7 +70,7 @@ This project helped me improve my understanding of instyling CSS and targetting 
           are well mixed. You can add a tablespoon of water or milk for a
           fluffier texture.
         </li>
-
+```
 
 **Acknowledgments** 🚀
 Special thanks to the Frontend Mentor community for providing feedback and support throughout the challenge!
