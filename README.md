@@ -50,16 +50,18 @@ This project helped me improve my understanding of instyling CSS and targetting 
 ## Sharing your solution
 
 	
-      <h2
-        style="
-          color: hsl(14, 45%, 36%);
-          margin-bottom: 10px;
-          border-top: 3px solid hsl(30, 18%, 87%);
-          padding: 10px;
-        "
-      >
-        Instructions
-      </h2>
+      ### 2. Example for HTML:
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>My HTML Example</title>
+  </head>
+  <body>
+    <h1>Hello, World!</h1>
+  </body>
+</html>
 
 ## Author
 
