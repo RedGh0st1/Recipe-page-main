@@ -33,7 +33,7 @@ This screenshot shows the main recipe page featuring a simple omelette recipe, c
 
 ## Links
 
-- [GitHub Pages](https://pages.github.com/)
+- [GitHub Pages]([https://pages.github.com/](https://redgh0st1.github.io/Recipe-page-main/))
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 
